@@ -1,227 +1,2457 @@
 {
-  "generado": "2026-06-03T20:53:34.815840",
-  "fuente": "Mercabarna referencia",
-  "total": 22,
+  "generado": "2026-06-03T22:21:50.039409",
+  "fuente": "Mercamadrid - Portal Datos Abiertos Madrid",
+  "total": 245,
   "precios": [
     {
-      "producto": "Tomate",
-      "variedad": "Cherry Rojo",
-      "precio_min": 2.4,
-      "precio_max": 3.2,
-      "precio_medio": 2.8,
+      "producto": "Ajo",
+      "variedad": "Vacuno Canal",
+      "precio_min": 4.25,
+      "precio_max": 4.25,
+      "precio_medio": 4.25,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Tomate",
-      "variedad": "Rama Extra",
-      "precio_min": 1.2,
-      "precio_max": 1.9,
-      "precio_medio": 1.55,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Tomate",
-      "variedad": "Raf Premium",
-      "precio_min": 3.8,
-      "precio_max": 5.2,
-      "precio_medio": 4.5,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Pimiento",
-      "variedad": "Rojo Lamuyo",
-      "precio_min": 1.4,
-      "precio_max": 2.2,
-      "precio_medio": 1.8,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Pimiento",
-      "variedad": "Verde Italiano",
-      "precio_min": 0.9,
-      "precio_max": 1.5,
-      "precio_medio": 1.2,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Naranja",
-      "variedad": "Navel",
-      "precio_min": 0.65,
-      "precio_max": 1.1,
-      "precio_medio": 0.88,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Limon",
-      "variedad": "Verna",
-      "precio_min": 0.8,
-      "precio_max": 1.4,
-      "precio_medio": 1.1,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Mandarina",
-      "variedad": "Clemenules",
-      "precio_min": 0.95,
-      "precio_max": 1.6,
-      "precio_medio": 1.28,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Fresa",
-      "variedad": "Camarosa",
-      "precio_min": 2.8,
-      "precio_max": 4.2,
-      "precio_medio": 3.5,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Aguacate",
-      "variedad": "Hass Cal. A",
-      "precio_min": 2.6,
-      "precio_max": 3.8,
-      "precio_medio": 3.2,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Platano",
-      "variedad": "Canarias",
-      "precio_min": 1.5,
-      "precio_max": 2.1,
-      "precio_medio": 1.8,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Manzana",
-      "variedad": "Fuji",
-      "precio_min": 1.2,
-      "precio_max": 2.0,
-      "precio_medio": 1.6,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Pera",
-      "variedad": "Conferencia",
-      "precio_min": 1.1,
-      "precio_max": 1.7,
-      "precio_medio": 1.4,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Zanahoria",
-      "variedad": "Nantesa",
-      "precio_min": 0.45,
-      "precio_max": 0.95,
-      "precio_medio": 0.7,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Patata",
-      "variedad": "Agria",
-      "precio_min": 0.4,
-      "precio_max": 0.85,
-      "precio_medio": 0.62,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
-    },
-    {
-      "producto": "Cebolla",
-      "variedad": "Blanca",
-      "precio_min": 0.4,
-      "precio_max": 0.8,
-      "precio_medio": 0.6,
-      "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
       "producto": "Ajo",
-      "variedad": "Blanco",
-      "precio_min": 2.4,
-      "precio_max": 4.0,
-      "precio_medio": 3.2,
+      "variedad": "Ovino Canal",
+      "precio_min": 6.42,
+      "precio_max": 7.02,
+      "precio_medio": 6.72,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
-      "producto": "Pepino",
-      "variedad": "Holandes",
-      "precio_min": 0.75,
-      "precio_max": 1.45,
+      "producto": "Ajo",
+      "variedad": "Ovino Despiece",
+      "precio_min": 7.37,
+      "precio_max": 7.77,
+      "precio_medio": 7.57,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Pollo",
+      "precio_min": 1.69,
+      "precio_max": 1.79,
+      "precio_medio": 1.69,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Aguacate",
+      "variedad": "Aguacate Hass",
+      "precio_min": 1.7,
+      "precio_max": 4.25,
+      "precio_medio": 3.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Albaricoque",
+      "variedad": "Albaricoque Comun",
+      "precio_min": 3.0,
+      "precio_max": 6.0,
+      "precio_medio": 5.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Casta�A Nacional",
+      "precio_min": 1.5,
+      "precio_max": 3.8,
+      "precio_medio": 2.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cerezas O.V.",
+      "precio_min": 4.0,
+      "precio_max": 13.0,
+      "precio_medio": 6.67,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruelas Moradas",
+      "precio_min": 1.0,
+      "precio_max": 5.0,
+      "precio_medio": 2.49,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruela Angeleno",
+      "precio_min": 1.0,
+      "precio_max": 2.25,
       "precio_medio": 1.1,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
-      "producto": "Brocoli",
-      "variedad": "Calabrese",
-      "precio_min": 1.1,
-      "precio_max": 1.8,
+      "producto": "Ciruela",
+      "variedad": "Ciruela Otra Familia Blac",
+      "precio_min": 2.5,
+      "precio_max": 3.5,
+      "precio_medio": 2.88,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Chirimoyas",
+      "precio_min": 0.9,
+      "precio_max": 3.3,
+      "precio_medio": 2.12,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Granadas",
+      "precio_min": 0.6,
+      "precio_max": 1.6,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Higo",
+      "variedad": "Higos Secos Nacionales",
+      "precio_min": 2.5,
+      "precio_max": 5.2,
+      "precio_medio": 4.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Limon",
+      "variedad": "Limon Primafiori",
+      "precio_min": 0.5,
+      "precio_max": 1.4,
+      "precio_medio": 0.83,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Clemenules",
+      "precio_min": 0.35,
+      "precio_max": 1.5,
+      "precio_medio": 0.92,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Clemenvilles",
+      "precio_min": 0.35,
+      "precio_max": 1.5,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Hernandina",
+      "precio_min": 0.8,
+      "precio_max": 1.2,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarina Orri",
+      "precio_min": 1.8,
+      "precio_max": 2.4,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzanas Golden",
+      "precio_min": 0.5,
+      "precio_max": 1.5,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzanas Starking",
+      "precio_min": 1.0,
+      "precio_max": 1.25,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzanas Reineta",
+      "precio_min": 0.75,
+      "precio_max": 1.5,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzanas Verde Doncella",
+      "precio_min": 0.6,
+      "precio_max": 2.5,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzana Granny Smith",
+      "precio_min": 1.0,
+      "precio_max": 1.3,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzana Royal Gala",
+      "precio_min": 0.6,
+      "precio_max": 1.35,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzana Fuji",
+      "precio_min": 0.7,
+      "precio_max": 1.5,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Manzana Pink Lady",
+      "precio_min": 1.65,
+      "precio_max": 1.85,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Melocoton",
+      "variedad": "Melocotones Amarillo",
+      "precio_min": 3.5,
+      "precio_max": 6.0,
+      "precio_medio": 5.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Melon",
+      "variedad": "Melones Piel De Sapo",
+      "precio_min": 0.6,
+      "precio_max": 2.0,
+      "precio_medio": 1.02,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Melon",
+      "variedad": "Melones Cantaloup",
+      "precio_min": 1.0,
+      "precio_max": 2.0,
+      "precio_medio": 1.49,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Melon",
+      "variedad": "Melones Galia",
+      "precio_min": 1.0,
+      "precio_max": 1.3,
+      "precio_medio": 1.17,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranjas Navel",
+      "precio_min": 0.4,
+      "precio_max": 1.5,
+      "precio_medio": 0.81,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Navelina",
+      "precio_min": 0.3,
+      "precio_max": 1.5,
+      "precio_medio": 0.69,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Salustiana",
+      "precio_min": 0.3,
+      "precio_max": 0.5,
+      "precio_medio": 0.35,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Sanguina",
+      "precio_min": 0.45,
+      "precio_max": 1.35,
+      "precio_medio": 0.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Navel Late",
+      "precio_min": 0.5,
+      "precio_max": 1.4,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Lane Late",
+      "precio_min": 0.45,
+      "precio_max": 0.8,
+      "precio_medio": 0.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Nectarina",
+      "variedad": "Nectarina Carne Amarilla",
+      "precio_min": 4.25,
+      "precio_max": 6.0,
+      "precio_medio": 5.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Nueces",
+      "precio_min": 1.4,
+      "precio_max": 6.0,
+      "precio_medio": 3.35,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Peras Ercolini",
+      "precio_min": 3.5,
+      "precio_max": 4.5,
+      "precio_medio": 3.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Peras Blanquillas",
+      "precio_min": 0.5,
+      "precio_max": 1.7,
+      "precio_medio": 1.13,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Peras Doyan De Comice",
+      "precio_min": 1.15,
+      "precio_max": 1.7,
       "precio_medio": 1.45,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
-      "producto": "Esparrago",
-      "variedad": "Verde Extra",
-      "precio_min": 3.0,
-      "precio_max": 4.6,
-      "precio_medio": 3.8,
+      "producto": "Pera",
+      "variedad": "Peras Conference",
+      "precio_min": 0.6,
+      "precio_max": 1.55,
+      "precio_medio": 1.23,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
-      "producto": "Champinon",
-      "variedad": "Blanco",
-      "precio_min": 1.8,
+      "producto": "Col",
+      "variedad": "Pi�A Golden Sweet",
+      "precio_min": 0.75,
+      "precio_max": 3.15,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Platano",
+      "variedad": "Platanos Extra",
+      "precio_min": 1.0,
+      "precio_max": 1.45,
+      "precio_medio": 1.35,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Platano",
+      "variedad": "Platano Import. O Banana",
+      "precio_min": 0.6,
+      "precio_max": 0.8,
+      "precio_medio": 0.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Platano",
+      "variedad": "Platano Macho",
+      "precio_min": 0.9,
+      "precio_max": 1.2,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Sandia",
+      "variedad": "Sandia Sin Semilla",
+      "precio_min": 0.7,
+      "precio_max": 1.3,
+      "precio_medio": 0.91,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Aledo",
+      "precio_min": 1.0,
+      "precio_max": 2.1,
+      "precio_medio": 1.42,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Ideal",
+      "precio_min": 0.8,
+      "precio_max": 2.0,
+      "precio_medio": 1.54,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Victoria",
+      "precio_min": 1.9,
+      "precio_max": 2.5,
+      "precio_medio": 2.16,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Red Glober",
+      "precio_min": 1.5,
+      "precio_max": 2.75,
+      "precio_medio": 2.15,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Dominga",
+      "precio_min": 1.0,
+      "precio_max": 1.3,
+      "precio_medio": 1.03,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Sin Semilla Blanca",
+      "precio_min": 1.4,
+      "precio_max": 3.25,
+      "precio_medio": 2.32,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Sin Semilla Negra",
+      "precio_min": 1.4,
       "precio_max": 3.0,
-      "precio_medio": 2.4,
+      "precio_medio": 2.23,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Papaya",
+      "variedad": "Papaya O.V.",
+      "precio_min": 2.56,
+      "precio_max": 3.25,
+      "precio_medio": 2.89,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     },
     {
       "producto": "Mango",
-      "variedad": "Tommy Atkins",
-      "precio_min": 1.8,
-      "precio_max": 3.0,
+      "variedad": "Mangos",
+      "precio_min": 1.75,
+      "precio_max": 5.5,
+      "precio_medio": 3.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Kiwi",
+      "variedad": "Kiwi Kiwigold",
+      "precio_min": 2.4,
+      "precio_max": 4.3,
+      "precio_medio": 4.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Kiwi",
+      "variedad": "Kiwi Pulpa Verde",
+      "precio_min": 0.75,
+      "precio_max": 2.4,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Fruta De La Pasion",
+      "precio_min": 6.25,
+      "precio_max": 9.33,
+      "precio_medio": 7.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Lima",
+      "precio_min": 1.0,
+      "precio_max": 2.13,
+      "precio_medio": 1.38,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Papaya",
+      "variedad": "Papaya Gigante",
+      "precio_min": 2.33,
+      "precio_max": 2.7,
+      "precio_medio": 2.67,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Acelgas",
+      "precio_min": 0.65,
+      "precio_max": 1.15,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ajos Secos",
+      "precio_min": 1.3,
+      "precio_max": 1.8,
+      "precio_medio": 1.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ajo Tierno",
+      "precio_min": 5.0,
+      "precio_max": 8.0,
+      "precio_medio": 6.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Alcachofa",
+      "variedad": "Alcachofas De Levante",
+      "precio_min": 0.8,
+      "precio_max": 2.6,
+      "precio_medio": 1.78,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Apio",
+      "variedad": "Apio Verde",
+      "precio_min": 0.6,
+      "precio_max": 0.8,
+      "precio_medio": 0.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Apio",
+      "variedad": "Apionabo",
+      "precio_min": 0.9,
+      "precio_max": 1.3,
+      "precio_medio": 1.04,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Berenjena",
+      "variedad": "Berenjenas Moradas",
+      "precio_min": 1.4,
+      "precio_max": 2.3,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Boniato",
+      "variedad": "Boniatos",
+      "precio_min": 0.6,
+      "precio_max": 1.5,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Calabacin",
+      "variedad": "Calabacin Verde",
+      "precio_min": 0.7,
+      "precio_max": 2.25,
+      "precio_medio": 1.65,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calabazas Violin",
+      "precio_min": 0.5,
+      "precio_max": 0.6,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calabaza O.V.",
+      "precio_min": 0.5,
+      "precio_max": 0.8,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Grano De Oro",
+      "precio_min": 0.38,
+      "precio_max": 0.6,
+      "precio_medio": 0.47,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Morada",
+      "precio_min": 0.85,
+      "precio_max": 0.95,
+      "precio_medio": 0.88,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Tierna",
+      "precio_min": 1.0,
+      "precio_max": 1.71,
+      "precio_medio": 1.43,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Blanca Dulce",
+      "precio_min": 0.8,
+      "precio_max": 0.9,
+      "precio_medio": 0.85,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Francesa/Echalote",
+      "precio_min": 2.0,
+      "precio_max": 2.4,
       "precio_medio": 2.4,
       "unidad": "euro/kg",
-      "mercado": "Mercabarna",
-      "fecha": "2026-06-03 20:53"
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Cebolla Cal�Ots",
+      "precio_min": 1.67,
+      "precio_max": 2.22,
+      "precio_medio": 1.94,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Coles-Repollo",
+      "precio_min": 0.3,
+      "precio_max": 0.7,
+      "precio_medio": 0.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Col China",
+      "precio_min": 0.3,
+      "precio_max": 1.25,
+      "precio_medio": 0.94,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Coles De Bruselas",
+      "precio_min": 0.8,
+      "precio_max": 1.5,
+      "precio_medio": 1.24,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Coliflor",
+      "variedad": "Coliflor",
+      "precio_min": 1.88,
+      "precio_max": 2.25,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Esparrago",
+      "variedad": "Esparragos Blancos",
+      "precio_min": 8.0,
+      "precio_max": 10.0,
+      "precio_medio": 8.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Esparrago",
+      "variedad": "Esparrago Verde",
+      "precio_min": 4.69,
+      "precio_max": 10.0,
+      "precio_medio": 6.49,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pina",
+      "variedad": "Espinacas",
+      "precio_min": 1.0,
+      "precio_max": 1.5,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Guisantes",
+      "precio_min": 2.0,
+      "precio_max": 4.0,
+      "precio_medio": 2.97,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Habas Verdes",
+      "precio_min": 1.0,
+      "precio_max": 3.0,
+      "precio_medio": 1.77,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Judias Verdes Garrafal",
+      "precio_min": 1.5,
+      "precio_max": 8.0,
+      "precio_medio": 5.62,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Judia Verde Boby",
+      "precio_min": 1.2,
+      "precio_max": 6.0,
+      "precio_medio": 2.59,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Judia Verde Helda",
+      "precio_min": 0.5,
+      "precio_max": 6.5,
+      "precio_medio": 3.01,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechugas Romanas",
+      "precio_min": 0.44,
+      "precio_max": 0.7,
+      "precio_medio": 0.52,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechugas Iceberg",
+      "precio_min": 0.29,
+      "precio_max": 0.78,
+      "precio_medio": 0.62,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechuga Trocadero",
+      "precio_min": 0.62,
+      "precio_max": 0.88,
+      "precio_medio": 0.73,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechuga Hoja De Roble",
+      "precio_min": 0.48,
+      "precio_max": 0.79,
+      "precio_medio": 0.57,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechuga Batavia",
+      "precio_min": 0.23,
+      "precio_max": 0.7,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Lechuga Lollo Rosso",
+      "precio_min": 0.44,
+      "precio_max": 0.7,
+      "precio_medio": 0.61,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Col Lombarda",
+      "precio_min": 0.4,
+      "precio_max": 0.75,
+      "precio_medio": 0.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pepino",
+      "variedad": "Pepino Corto Tipo Espa�Ol",
+      "precio_min": 0.6,
+      "precio_max": 1.55,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Pimiento Verde Italiano",
+      "precio_min": 0.9,
+      "precio_max": 1.5,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Pimientos Rojos",
+      "precio_min": 0.9,
+      "precio_max": 1.6,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Pimiento De Padron",
+      "precio_min": 1.8,
+      "precio_max": 2.2,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Pimientos Lamuyos",
+      "precio_min": 0.8,
+      "precio_max": 1.6,
+      "precio_medio": 1.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Puerro",
+      "variedad": "Puerros",
+      "precio_min": 1.4,
+      "precio_max": 1.55,
+      "precio_medio": 1.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Rabano",
+      "variedad": "Rabanos",
+      "precio_min": 0.56,
+      "precio_max": 0.67,
+      "precio_medio": 0.67,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Raf",
+      "precio_min": 1.5,
+      "precio_max": 8.5,
+      "precio_medio": 4.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Pera",
+      "precio_min": 0.4,
+      "precio_max": 1.6,
+      "precio_medio": 1.15,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Mazarron",
+      "precio_min": 0.6,
+      "precio_max": 2.0,
+      "precio_medio": 1.33,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Daniela",
+      "precio_min": 0.4,
+      "precio_max": 1.6,
+      "precio_medio": 1.02,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate En Rama",
+      "precio_min": 0.6,
+      "precio_max": 2.0,
+      "precio_medio": 1.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Cherry",
+      "precio_min": 1.5,
+      "precio_max": 3.5,
+      "precio_medio": 2.22,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Kumato",
+      "precio_min": 0.8,
+      "precio_max": 2.6,
+      "precio_medio": 1.48,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Zanahoria",
+      "variedad": "Zanahorias O Carlota Nant",
+      "precio_min": 0.4,
+      "precio_max": 0.65,
+      "precio_medio": 0.45,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Zanahoria",
+      "variedad": "Zanahoria En Rama",
+      "precio_min": 0.82,
+      "precio_max": 1.29,
+      "precio_medio": 1.18,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Brocoli",
+      "variedad": "Brocoli",
+      "precio_min": 0.6,
+      "precio_max": 1.5,
+      "precio_medio": 1.16,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Yuca",
+      "precio_min": 1.45,
+      "precio_max": 1.8,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Tirabeques",
+      "precio_min": 3.3,
+      "precio_max": 7.0,
+      "precio_medio": 5.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Hinojo",
+      "variedad": "Hinojo",
+      "precio_min": 1.2,
+      "precio_max": 1.4,
+      "precio_medio": 1.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Blanca",
+      "precio_min": 0.38,
+      "precio_max": 0.48,
+      "precio_medio": 0.41,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Roja",
+      "precio_min": 0.44,
+      "precio_max": 0.5,
+      "precio_medio": 0.48,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Nueva",
+      "precio_min": 0.55,
+      "precio_max": 0.75,
+      "precio_medio": 0.65,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Mona Lisa Granel",
+      "precio_min": 0.45,
+      "precio_max": 0.5,
+      "precio_medio": 0.48,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Agria Granel",
+      "precio_min": 0.38,
+      "precio_max": 0.48,
+      "precio_medio": 0.45,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patata Mona Lisa Confecci",
+      "precio_min": 0.55,
+      "precio_max": 0.65,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Emperador",
+      "precio_min": 14.03,
+      "precio_max": 18.03,
+      "precio_medio": 16.83,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Marrajos",
+      "precio_min": 4.0,
+      "precio_max": 7.0,
+      "precio_medio": 5.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Rape Colas",
+      "precio_min": 10.5,
+      "precio_max": 18.5,
+      "precio_medio": 14.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Bigaros O Caracolillos",
+      "precio_min": 10.5,
+      "precio_max": 15.0,
+      "precio_medio": 11.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Caracoles Grandes",
+      "precio_min": 3.75,
+      "precio_max": 5.85,
+      "precio_medio": 4.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Caracoles Peque�Os",
+      "precio_min": 2.5,
+      "precio_max": 3.25,
+      "precio_medio": 2.85,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Gamba Sin Cabeza (Colas)",
+      "precio_min": 8.9,
+      "precio_max": 18.5,
+      "precio_medio": 13.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Langostino S.Cabeza Cola",
+      "precio_min": 6.01,
+      "precio_max": 15.03,
+      "precio_medio": 12.02,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Langosta Colas",
+      "precio_min": 36.06,
+      "precio_max": 48.08,
+      "precio_medio": 44.17,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ovino Casqueria",
+      "precio_min": 1.5,
+      "precio_max": 1.5,
+      "precio_medio": 1.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarina Nadorcott",
+      "precio_min": 0.5,
+      "precio_max": 0.9,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Kumkuat",
+      "precio_min": 5.0,
+      "precio_max": 7.0,
+      "precio_medio": 5.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Maracuya",
+      "precio_min": 6.4,
+      "precio_max": 7.6,
+      "precio_medio": 6.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Fisalis",
+      "precio_min": 6.0,
+      "precio_max": 10.0,
+      "precio_medio": 8.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Setas De Cultivo",
+      "precio_min": 1.5,
+      "precio_max": 2.5,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Seta Shii-Take",
+      "precio_min": 4.5,
+      "precio_max": 5.0,
+      "precio_medio": 5.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Seta De Cardo",
+      "precio_min": 10.0,
+      "precio_max": 12.0,
+      "precio_medio": 12.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calamar Patagonico",
+      "precio_min": 1.8,
+      "precio_max": 4.55,
+      "precio_medio": 3.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calamar Boston",
+      "precio_min": 3.9,
+      "precio_max": 5.75,
+      "precio_medio": 4.55,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calamar California",
+      "precio_min": 2.55,
+      "precio_max": 4.9,
+      "precio_medio": 3.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calamar Nacional",
+      "precio_min": 5.5,
+      "precio_max": 10.5,
+      "precio_medio": 7.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Calamar Indio",
+      "precio_min": 2.5,
+      "precio_max": 5.4,
+      "precio_medio": 4.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Fortuna",
+      "precio_min": 0.6,
+      "precio_max": 1.5,
+      "precio_medio": 1.07,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarina Ortanique",
+      "precio_min": 0.3,
+      "precio_max": 1.0,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Nisperos",
+      "precio_min": 2.25,
+      "precio_max": 4.75,
+      "precio_medio": 3.38,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Sandia",
+      "variedad": "Sandia Con Semilla",
+      "precio_min": 0.7,
+      "precio_max": 1.2,
+      "precio_medio": 0.85,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Guayabos",
+      "precio_min": 4.17,
+      "precio_max": 8.0,
+      "precio_medio": 5.33,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Alcachofa",
+      "variedad": "Alcachofa Blanca Tudela",
+      "precio_min": 1.0,
+      "precio_max": 1.85,
+      "precio_medio": 1.43,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Escarolas",
+      "precio_min": 0.44,
+      "precio_max": 0.8,
+      "precio_medio": 0.66,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Guindillas Rojas",
+      "precio_min": 1.0,
+      "precio_max": 1.5,
+      "precio_medio": 1.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Guindillas Verdes",
+      "precio_min": 1.0,
+      "precio_max": 1.4,
+      "precio_medio": 1.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Vacuno Despiece A�Ojo",
+      "precio_min": 8.89,
+      "precio_max": 8.89,
+      "precio_medio": 8.89,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Vacuno Despiece Vaca",
+      "precio_min": 7.98,
+      "precio_max": 7.98,
+      "precio_medio": 7.98,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Porcino Casqueria",
+      "precio_min": 1.16,
+      "precio_max": 1.16,
+      "precio_medio": 1.16,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Melocoton",
+      "variedad": "Melocoton Rojo",
+      "precio_min": 0.9,
+      "precio_max": 3.5,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Huevos",
+      "precio_min": 0.84,
+      "precio_max": 1.52,
+      "precio_medio": 1.19,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cerezas Burlat",
+      "precio_min": 1.2,
+      "precio_max": 4.0,
+      "precio_medio": 2.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ciruela Red Beauty",
+      "precio_min": 0.8,
+      "precio_max": 1.5,
+      "precio_medio": 1.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Limon",
+      "variedad": "Limones Verna",
+      "precio_min": 0.5,
+      "precio_max": 1.45,
+      "precio_medio": 0.98,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Valencia Late",
+      "precio_min": 0.3,
+      "precio_max": 0.9,
+      "precio_medio": 0.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Naranja Navel Powel",
+      "precio_min": 0.3,
+      "precio_max": 1.5,
+      "precio_medio": 0.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Peras Castell O Sanjuaner",
+      "precio_min": 2.0,
+      "precio_max": 3.25,
+      "precio_medio": 2.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Alcachofa",
+      "variedad": "Alcachofas Del Terreno",
+      "precio_min": 1.0,
+      "precio_max": 1.3,
+      "precio_medio": 1.12,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Boqueron Nacional Grande",
+      "precio_min": 5.0,
+      "precio_max": 6.5,
+      "precio_medio": 6.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Boqueron Ncnal.Terciado",
+      "precio_min": 3.5,
+      "precio_max": 4.6,
+      "precio_medio": 4.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Calamar",
+      "precio_min": 13.5,
+      "precio_max": 15.8,
+      "precio_medio": 15.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Dorada Acuic. M�S 600 Gr",
+      "precio_min": 5.5,
+      "precio_max": 7.7,
+      "precio_medio": 6.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Dorada Acuic. 400-600 Gr",
+      "precio_min": 4.45,
+      "precio_max": 5.75,
+      "precio_medio": 4.9,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Dorada Acuic. 300-400 Gr",
+      "precio_min": 4.3,
+      "precio_max": 5.75,
+      "precio_medio": 5.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Lenguado Grande",
+      "precio_min": 22.0,
+      "precio_max": 26.5,
+      "precio_medio": 24.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Lenguado Mediano",
+      "precio_min": 18.5,
+      "precio_max": 20.0,
+      "precio_medio": 19.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Lenguado Peque�O",
+      "precio_min": 11.5,
+      "precio_max": 14.5,
+      "precio_medio": 13.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Lenguado Acuicultura",
+      "precio_min": 14.5,
+      "precio_max": 15.3,
+      "precio_medio": 15.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Caballa O Verdel Grande",
+      "precio_min": 2.5,
+      "precio_max": 3.0,
+      "precio_medio": 2.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Porcino Canal",
+      "precio_min": 2.26,
+      "precio_max": 2.26,
+      "precio_medio": 2.26,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Albaricoque",
+      "variedad": "Albaricoques Pepito",
+      "precio_min": 0.8,
+      "precio_max": 2.2,
+      "precio_medio": 1.62,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Albaricoque",
+      "variedad": "Albaricoque Galta Roja",
+      "precio_min": 0.6,
+      "precio_max": 2.0,
+      "precio_medio": 1.05,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cerezas Picotas",
+      "precio_min": 1.0,
+      "precio_max": 3.5,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cerezas Ambrunesas",
+      "precio_min": 1.5,
+      "precio_max": 3.0,
+      "precio_medio": 2.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cerezas California",
+      "precio_min": 1.25,
+      "precio_max": 3.5,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Fresa",
+      "variedad": "Ciruela Fresa",
+      "precio_min": 1.3,
+      "precio_max": 4.0,
+      "precio_medio": 2.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Freson",
+      "precio_min": 1.25,
+      "precio_max": 2.5,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Pera Etrusca",
+      "precio_min": 1.0,
+      "precio_max": 1.25,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Pera Magallon",
+      "precio_min": 1.25,
+      "precio_max": 2.0,
+      "precio_medio": 1.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Cardinale",
+      "precio_min": 1.0,
+      "precio_max": 1.5,
+      "precio_medio": 1.29,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Negra Otras Variedade",
+      "precio_min": 2.8,
+      "precio_max": 3.9,
+      "precio_medio": 3.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Endibia",
+      "precio_min": 0.4,
+      "precio_max": 1.0,
+      "precio_medio": 0.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Achicoria",
+      "precio_min": 1.0,
+      "precio_max": 1.25,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Perejil",
+      "precio_min": 0.75,
+      "precio_max": 0.88,
+      "precio_medio": 0.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Marrajos Cong",
+      "precio_min": 3.01,
+      "precio_max": 4.51,
+      "precio_medio": 4.06,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Gamba Sin Cabeza (Colas) Cong",
+      "precio_min": 8.0,
+      "precio_max": 17.5,
+      "precio_medio": 13.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Langostino S.Cabeza Cola Cong",
+      "precio_min": 6.5,
+      "precio_max": 16.0,
+      "precio_medio": 12.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Col",
+      "variedad": "Langosta Colas Cong",
+      "precio_min": 36.0,
+      "precio_max": 48.0,
+      "precio_medio": 42.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Conejo",
+      "precio_min": 4.5,
+      "precio_max": 4.59,
+      "precio_medio": 4.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Albaricoque",
+      "variedad": "Albaricoques Moniqui",
+      "precio_min": 0.9,
+      "precio_max": 2.0,
+      "precio_medio": 1.55,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruelas Reina Claudia",
+      "precio_min": 1.2,
+      "precio_max": 2.8,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruelas Claudia Francesa",
+      "precio_min": 1.0,
+      "precio_max": 2.0,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruelas Japan",
+      "precio_min": 0.5,
+      "precio_max": 2.0,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruelas Tolosa",
+      "precio_min": 1.0,
+      "precio_max": 2.5,
+      "precio_medio": 2.25,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Higo",
+      "variedad": "Higos Verdes",
+      "precio_min": 1.7,
+      "precio_max": 8.0,
+      "precio_medio": 4.43,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Higo",
+      "variedad": "Higos Negros",
+      "precio_min": 1.5,
+      "precio_max": 6.0,
+      "precio_medio": 3.07,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Limon",
+      "variedad": "Limon Eureka",
+      "precio_min": 1.0,
+      "precio_max": 1.3,
+      "precio_medio": 1.16,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Paraguayas",
+      "precio_min": 0.3,
+      "precio_max": 2.0,
+      "precio_medio": 0.98,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Limon",
+      "variedad": "Peras Limoneras",
+      "precio_min": 0.8,
+      "precio_max": 1.5,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Michelle Parlier",
+      "precio_min": 0.8,
+      "precio_max": 1.6,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Cacahuete Con Sal",
+      "precio_min": 2.0,
+      "precio_max": 2.5,
+      "precio_medio": 2.35,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Cacahuete Sin Sal",
+      "precio_min": 2.1,
+      "precio_max": 2.55,
+      "precio_medio": 2.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Panchito Con Piel",
+      "precio_min": 1.95,
+      "precio_max": 2.55,
+      "precio_medio": 2.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Panchito Sin Piel",
+      "precio_min": 2.3,
+      "precio_max": 2.5,
+      "precio_medio": 2.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Pistacho Irani",
+      "precio_min": 10.5,
+      "precio_max": 13.0,
+      "precio_medio": 12.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Almendra Largueta Tostada",
+      "precio_min": 8.95,
+      "precio_max": 11.0,
+      "precio_medio": 9.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Tomate Muchamiel",
+      "precio_min": 1.8,
+      "precio_max": 3.0,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Villanueva",
+      "precio_min": 0.75,
+      "precio_max": 1.5,
+      "precio_medio": 0.85,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Ocra",
+      "precio_min": 4.75,
+      "precio_max": 4.75,
+      "precio_medio": 4.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Moras",
+      "precio_min": 6.0,
+      "precio_max": 12.0,
+      "precio_medio": 9.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Higo",
+      "variedad": "Higo Chumbo",
+      "precio_min": 1.5,
+      "precio_max": 2.2,
+      "precio_medio": 2.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Champi�On",
+      "precio_min": 1.65,
+      "precio_max": 2.25,
+      "precio_medio": 1.75,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Batatas Yema De Huevo",
+      "precio_min": 1.0,
+      "precio_max": 2.5,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Pavo",
+      "precio_min": 3.52,
+      "precio_max": 4.25,
+      "precio_medio": 3.59,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruela Anaspar",
+      "precio_min": 0.8,
+      "precio_max": 1.3,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": "Ciruela Sun Gold",
+      "precio_min": 0.4,
+      "precio_max": 1.5,
+      "precio_medio": 0.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Satsumas",
+      "precio_min": 0.4,
+      "precio_max": 1.35,
+      "precio_medio": 1.13,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarinas Clementinas",
+      "precio_min": 1.0,
+      "precio_max": 1.8,
+      "precio_medio": 1.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarina Okitsu",
+      "precio_min": 1.1,
+      "precio_max": 1.1,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Melocotones Calanda",
+      "precio_min": 0.9,
+      "precio_max": 2.25,
+      "precio_medio": 1.47,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Moscatel Espa�Ola",
+      "precio_min": 0.6,
+      "precio_max": 2.5,
+      "precio_medio": 1.41,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Uva Rosetti",
+      "precio_min": 0.6,
+      "precio_max": 1.5,
+      "precio_medio": 1.22,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Frambuesas",
+      "precio_min": 7.2,
+      "precio_max": 12.0,
+      "precio_medio": 10.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Caqui Rojo Brillante",
+      "precio_min": 0.55,
+      "precio_max": 1.7,
+      "precio_medio": 1.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Caqui Sharon",
+      "precio_min": 0.85,
+      "precio_max": 1.8,
+      "precio_medio": 1.3,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ciruela Arandana",
+      "precio_min": 1.0,
+      "precio_max": 1.8,
+      "precio_medio": 1.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Mandarina Oronules",
+      "precio_min": 0.6,
+      "precio_max": 2.5,
+      "precio_medio": 1.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Membrillos",
+      "precio_min": 0.7,
+      "precio_max": 2.0,
+      "precio_medio": 1.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Aceitunas",
+      "precio_min": 3.31,
+      "precio_max": 3.61,
+      "precio_medio": 3.46,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Remolacha",
+      "precio_min": 1.5,
+      "precio_max": 2.0,
+      "precio_medio": 1.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Setas Niscalos",
+      "precio_min": 10.0,
+      "precio_max": 17.0,
+      "precio_medio": 12.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Seta/Hongo Boletus Edulis",
+      "precio_min": 8.0,
+      "precio_max": 15.0,
+      "precio_medio": 14.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Granada",
+      "variedad": "Caquis",
+      "precio_min": 0.5,
+      "precio_max": 1.1,
+      "precio_medio": 0.9,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Cereza",
+      "variedad": "Cereza Importaci�N",
+      "precio_min": 8.0,
+      "precio_max": 18.0,
+      "precio_medio": 14.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Ciruela Importacion",
+      "precio_min": 2.5,
+      "precio_max": 3.0,
+      "precio_medio": 3.0,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Patatas Fritas Cong",
+      "precio_min": 4.5,
+      "precio_max": 5.5,
+      "precio_medio": 5.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercamadrid",
+      "fecha": "2026-06-03 22:21"
     }
   ]
 }
