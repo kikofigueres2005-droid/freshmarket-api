@@ -1,0 +1,227 @@
+{
+  "generado": "2026-06-03T20:53:34.815840",
+  "fuente": "Mercabarna referencia",
+  "total": 22,
+  "precios": [
+    {
+      "producto": "Tomate",
+      "variedad": "Cherry Rojo",
+      "precio_min": 2.4,
+      "precio_max": 3.2,
+      "precio_medio": 2.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Rama Extra",
+      "precio_min": 1.2,
+      "precio_max": 1.9,
+      "precio_medio": 1.55,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Raf Premium",
+      "precio_min": 3.8,
+      "precio_max": 5.2,
+      "precio_medio": 4.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Rojo Lamuyo",
+      "precio_min": 1.4,
+      "precio_max": 2.2,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Pimiento",
+      "variedad": "Verde Italiano",
+      "precio_min": 0.9,
+      "precio_max": 1.5,
+      "precio_medio": 1.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Naranja",
+      "variedad": "Navel",
+      "precio_min": 0.65,
+      "precio_max": 1.1,
+      "precio_medio": 0.88,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Limon",
+      "variedad": "Verna",
+      "precio_min": 0.8,
+      "precio_max": 1.4,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": "Clemenules",
+      "precio_min": 0.95,
+      "precio_max": 1.6,
+      "precio_medio": 1.28,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Fresa",
+      "variedad": "Camarosa",
+      "precio_min": 2.8,
+      "precio_max": 4.2,
+      "precio_medio": 3.5,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Aguacate",
+      "variedad": "Hass Cal. A",
+      "precio_min": 2.6,
+      "precio_max": 3.8,
+      "precio_medio": 3.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Platano",
+      "variedad": "Canarias",
+      "precio_min": 1.5,
+      "precio_max": 2.1,
+      "precio_medio": 1.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Manzana",
+      "variedad": "Fuji",
+      "precio_min": 1.2,
+      "precio_max": 2.0,
+      "precio_medio": 1.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Pera",
+      "variedad": "Conferencia",
+      "precio_min": 1.1,
+      "precio_max": 1.7,
+      "precio_medio": 1.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Zanahoria",
+      "variedad": "Nantesa",
+      "precio_min": 0.45,
+      "precio_max": 0.95,
+      "precio_medio": 0.7,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Patata",
+      "variedad": "Agria",
+      "precio_min": 0.4,
+      "precio_max": 0.85,
+      "precio_medio": 0.62,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Cebolla",
+      "variedad": "Blanca",
+      "precio_min": 0.4,
+      "precio_max": 0.8,
+      "precio_medio": 0.6,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Blanco",
+      "precio_min": 2.4,
+      "precio_max": 4.0,
+      "precio_medio": 3.2,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Pepino",
+      "variedad": "Holandes",
+      "precio_min": 0.75,
+      "precio_max": 1.45,
+      "precio_medio": 1.1,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Brocoli",
+      "variedad": "Calabrese",
+      "precio_min": 1.1,
+      "precio_max": 1.8,
+      "precio_medio": 1.45,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Esparrago",
+      "variedad": "Verde Extra",
+      "precio_min": 3.0,
+      "precio_max": 4.6,
+      "precio_medio": 3.8,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Champinon",
+      "variedad": "Blanco",
+      "precio_min": 1.8,
+      "precio_max": 3.0,
+      "precio_medio": 2.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    },
+    {
+      "producto": "Mango",
+      "variedad": "Tommy Atkins",
+      "precio_min": 1.8,
+      "precio_max": 3.0,
+      "precio_medio": 2.4,
+      "unidad": "euro/kg",
+      "mercado": "Mercabarna",
+      "fecha": "2026-06-03 20:53"
+    }
+  ]
+}
